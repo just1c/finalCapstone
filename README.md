@@ -10,14 +10,26 @@ I was assigned the task of refactoring and enhancing a straightforward command-l
 ## Installation
 Download the python file (task_manager.py) along with the 2 text files (tasks.txt and user.txt). Ensure you save all 3 files to the same folder.
 
-Alternatively you can clone the repository using:
+Alternatively you can clone this repository to your local repository using:
 
 ```sh
 git clone https://github.com/just1c/finalCapstone
 ```
 
 ## Usage
-Run the python file and follow the instructions on the terminal to navigate the menu.
+
+The program is run using Python 3.
+
+* https://www.python.org/downloads/   - Navigate here and follow the instructions to download the appropriate Python interpreter for your OS (i.e. Windows, Mac, Linux)
+
+Run the CLI program from within your local repository using the following terminal commannd 
+
+```sh
+python3 task_manager.py
+```
+
+After running the python programme, follow the instructions on the terminal to navigate the menu.
+
 
 ## Credits
 This project was created by Justice Duruanyanwu as part of a task for HyperioDev Software Development Bootcamp.
