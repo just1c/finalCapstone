@@ -10,6 +10,12 @@ I was assigned the task of refactoring and enhancing a straightforward command-l
 ## Installation
 Download the python file (task_manager.py) along with the 2 text files (tasks.txt and user.txt). Ensure you save all 3 files to the same folder.
 
+Alternatively you can clone the repository using:
+
+```sh
+git clone https://github.com/just1c/finalCapstone
+```
+
 ## Usage
 Run the python file and follow the instructions on the terminal to navigate the menu.
 
