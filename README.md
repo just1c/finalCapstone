@@ -31,8 +31,8 @@ python3 task_manager.py
 After running the python programme, follow the instructions on the terminal to navigate the menu.
 
 New users should use the following login details to register as a new user-
-Username: admin
-Password: password
+> Username: admin
+> Password: password
 
 ![Alt text](https://utfs.io/f/c521d9fe-65c2-4c8f-888c-3fd73f888c5b-p3b709.12.03.png)
 
