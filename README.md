@@ -35,6 +35,7 @@ Username: admin
 Password: password
 
 [![Alt text](image link)](https://utfs.io/f/c521d9fe-65c2-4c8f-888c-3fd73f888c5b-p3b709.12.03.png)
+<img src="[image-source-url-location.com](https://utfs.io/f/c521d9fe-65c2-4c8f-888c-3fd73f888c5b-p3b709.12.03.png)" />
 
 ## Credits
 This project was created by Justice Duruanyanwu as part of a task for HyperioDev Software Development Bootcamp.
